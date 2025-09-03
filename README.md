@@ -56,7 +56,10 @@
 - **Libraries & Tools**: whisper, faster whisper, ffmpeg
 - **Monitoring**: Anydesk
 
-
-
 <br>
 
+# 주요 함수 기능
+
+# 향후 발전 방향
+
+# 기대 효과
