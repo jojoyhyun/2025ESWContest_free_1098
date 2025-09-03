@@ -44,8 +44,17 @@
 | **서버** | Ubuntu 22.04 LTS | 라즈베리파이와 ssh 통신. LM 감정 분석 모델 구동 |
 | **원격지원** | Anydesk | 라즈베리파이 OS에 원격접속하여 시스템 모니터링 |
 | **데이터 번역** | m2m100_418M_PTT | ijcnlp - dailydialog 데이터 한국어 번역 전처리. |
-<br>
 
+### 개발 환경 (Development Environmnet)
+- **Main processor**: Raspberry Pi 5 – 8 GB RAM
+- **OS**: Ubuntu 22.04
+- **Programming Languages**: Python 3.11
+- **Programming Tool**: VS code
+- **Virtual environment**: mini conda
+- **AI Model / training**: pytorch, faster whisper
+- **Network**: Raspberry Pi 5 <-> server
+- **Libraries & Tools**: whisper, faster whisper, ffmpeg
+- **Monitoring**: Anydesk
 
 
 
