@@ -23,7 +23,7 @@
 <br>
 
 ## ⚙️ Sent-Light 시스템 아키텍처
-<img width="1780" height="1000" alt="image" src="https://github.com/user-attachments/assets/653379ee-a263-41e4-b87e-a28b03f18743" />
+<img width="1780" height="1000" alt="System Architecture" src="https://github.com/jojoyhyun/2025ESWContest_free_1098/blob/main/System_Architecture.png?raw=true" />
 
 
 
