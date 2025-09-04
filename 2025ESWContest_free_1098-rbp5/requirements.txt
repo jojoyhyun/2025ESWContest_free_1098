@@ -1,0 +1,6 @@
+sounddevice
+scipy
+paramiko
+ffmpeg
+torch
+faster-whisper
