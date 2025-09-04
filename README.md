@@ -62,7 +62,8 @@
 - **Libraries & Tools**: whisper, faster whisper, ffmpeg
 - **Monitoring**: Anydesk
 
-
+<br>
+<br>
 <br>
 
 ## 📋 메인 실행 파일 및 주요 함수 기능
