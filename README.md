@@ -24,8 +24,6 @@
 
 ## ⚙️ Sent-Light 시스템 아키텍처
 <img width="1780" height="1000" alt="image" src="https://github.com/user-attachments/assets/653379ee-a263-41e4-b87e-a28b03f18743" />
-<img width="1854" height="616" alt="image" src="https://github.com/user-attachments/assets/ac095302-7868-41be-a1be-0a4e97bd777d" />
-<img width="1894" height="698" alt="image" src="https://github.com/user-attachments/assets/ed4075c3-be9e-448a-a822-20245e149fbe" />
 
 
 
@@ -68,7 +66,8 @@
 
 ## 📋 메인 실행 파일 및 주요 함수 기능
 <img width="1888" height="732" alt="image" src="https://github.com/user-attachments/assets/0d7d1988-f095-4b18-a1c5-d6b75c7604a6" />
-
+<img width="1854" height="616" alt="image" src="https://github.com/user-attachments/assets/ac095302-7868-41be-a1be-0a4e97bd777d" />
+<img width="1894" height="698" alt="image" src="https://github.com/user-attachments/assets/ed4075c3-be9e-448a-a822-20245e149fbe" />
 
 
 ## 📊 향후 발전 방향
