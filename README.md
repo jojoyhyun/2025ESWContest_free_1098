@@ -62,7 +62,7 @@
 
 <br>
 
-## 메인 실행 파일 및 주요 함수 기능
+## 📋 메인 실행 파일 및 주요 함수 기능
 <img width="1888" height="732" alt="image" src="https://github.com/user-attachments/assets/0d7d1988-f095-4b18-a1c5-d6b75c7604a6" />
 
 
