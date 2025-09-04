@@ -62,7 +62,10 @@
 
 <br>
 
-## 주요 함수 기능
+## 메인 실행 파일 및 주요 함수 기능
+<img width="1888" height="732" alt="image" src="https://github.com/user-attachments/assets/0d7d1988-f095-4b18-a1c5-d6b75c7604a6" />
+
+
 
 ## 📊 향후 발전 방향
 - **3D프린터를 활용하여 커스텀 외장 케이스 디자인 구현 가능**
