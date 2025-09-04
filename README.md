@@ -22,6 +22,10 @@
 - 감정 분석 결과를 LED 빛의 색상과 패턴으로 시각화하여 사용자에게 전달
 <br>
 
+# ⚙️ Sent-Light 시스템 아키텍처
+<img width="1780" height="1000" alt="image" src="https://github.com/user-attachments/assets/653379ee-a263-41e4-b87e-a28b03f18743" />
+
+
 ## 🛠️ HW 구성 및 기능
 
 | 구분 | 부품명 | 역할 및 기능 |
